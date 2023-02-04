@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-A module Definition of filter_datum function that returns an obfuscated log message
+A module Definition of filter_datum function that returns
+ an obfuscated log message
 """
 from typing import List
 import re
